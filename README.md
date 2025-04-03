@@ -5,7 +5,8 @@
 This repository contains the majority of my data, code, and results for my project. 
 
 ## Where is this project going?  
-So far: GSDSEF in the Behavioral and Social Sciences category. One second place in category.
+So far: GSDSEF in the Behavioral and Social Sciences category. 
+Won second place award in category.
 
 ## Details about my research project:
 
